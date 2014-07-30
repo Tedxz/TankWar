@@ -1,0 +1,302 @@
+VERSION 2.3.2 RELEASE
+1.Disable F2 when gaming
+2.Pause hint bug fixed
+
+-------------------------------------------------------------
+VERSION 2.3.1 RELEASE
+
+-------------------------------------------------------------
+VERSION 2.3.0 ALPHA
+2012-6-3 21:30:17
+
+1.Friends come automatically
+2.Display version in ranklist
+3.Rank invalid when in debug mode
+
+-------------------------------------------------------------
+VERSION 2.2.6 DEV
+2012-5-22 21:41:26
+
+1.Details tweaked
+
+-------------------------------------------------------------
+VERSION 2.2.5 DEV
+2012-5-9 14:38:50
+
+1.Refactored code about skills
+
+-------------------------------------------------------------
+VERSION 2.2.0 ALPHA
+2012-5-7 23:45:31
+
+1.Highlight current ranklist record  
+
+-------------------------------------------------------------
+VERSION 2.1.6 ALPHA
+2012-5-7 22:06:12
+
+1.Unified archive file in all OS
+2.Fixed sniper doesn't explode when it is crashed  
+
+-------------------------------------------------------------
+VERSION 2.1.5 ALPHA
+2012-5-7 0:30:58
+
+1.Disable input method in main window
+2.Regulated keys
+
+-------------------------------------------------------------
+VERSION 2.1.4 ALPHA
+2012-5-6 12:24:46
+
+1.Display buffer in console.
+2.Invincible when using healing  
+
+-------------------------------------------------------------
+VERSION 2.1.3 ALPHA
+2012-5-5 22:58:13
+
+1.Explosion begin to be able to make damage. 
+
+-------------------------------------------------------------
+VERSION 2.1.2 DEV
+2012-5-4 17:39:54
+
+1.Double speed bug fixed
+2.Bug fixed
+3.Ranklist added 
+
+-------------------------------------------------------------
+VERSION 2.1.0 ALPHA
+2012-5-4 17:39:54
+
+1.Game speed instability problem solved
+
+-------------------------------------------------------------
+VERSION 2.0.2 ALPHA
+2012-5-4 15:43:45
+
+1.Soy Sauce Tank bug fixed
+
+-------------------------------------------------------------
+VERSION 2.0.1 ALPHA
+2012-5-3 17:21:07
+
+1.Changeable Player name (with many changes)
+2.Dialog bubble changes it's direction automatically
+
+-------------------------------------------------------------
+VERSION 1.9.5 ALPHA
+2012-5-2 23:57:58
+
+1.New Wave Factory
+
+-------------------------------------------------------------
+VERSION 1.9.4 ALPHA
+2012-5-1 21:41:16
+
+1.Linux support added
+2.Tank Generator bug caused by pause fixed
+
+-------------------------------------------------------------
+VERSION 1.9.3 ALPHA
+2012-4-29 21:49:01
+
+1.Empty TankGen bug fixed
+
+-------------------------------------------------------------
+VERSION 1.9.1 ALPHA
+
+1.New Wave Strategy
+
+-------------------------------------------------------------
+VERSION 1.8.7 ALPHA
+2012-04-16 00:51:18
+
+1.Shoot bug when release key_Q fixed
+2.Pause inform in console repeat bug fixed
+3.Font bug on "DEBUG MODE" fixed
+4.New pause method!
+5.Missile fly trace deviation bug fixed
+6.Added Accelerator Item 
+
+-------------------------------------------------------------
+VERSION 1.8.5 ALPHA
+2012-04-15 23:06:50
+
+1.Save function updated
+
+-------------------------------------------------------------
+VERSION 1.8.4 DEV
+2012-04-14 20:01:58
+
+1.Save function added
+
+-------------------------------------------------------------
+VERSION 1.8.3 DEV
+2012-04-14 09:10:04
+
+1.Game speed bug fixed 
+
+-------------------------------------------------------------
+VERSION 1.8.2 DEV
+
+1.Only one Orange exists
+2.Add wave strategy generator
+3.Exception Manager
+
+-------------------------------------------------------------
+VERSION 1.8.1 DEV
+
+1.Add Wave Strategy
+2.Add game thread refresh interval monitor
+
+-------------------------------------------------------------
+VERSION 1.8.0 DEV
+
+1.Add Wave Strategy
+
+-------------------------------------------------------------
+VERSION 1.7.9 DEV
+2012-04-10 20:25:43
+
+1.Key colliding solved (for Orange)
+
+-------------------------------------------------------------
+VERSION 1.7.7 DEV
+2012-04-10 20:25:43
+
+1.Bug fixed
+
+-------------------------------------------------------------
+VERSION 1.7.6 DEV
+2012-04-10 20:25:43
+
+1.Refactored code with Enum
+
+-------------------------------------------------------------
+VERSION 1.7.5 DEV
+2012-04-08 22:01:16
+
+1.Disable continue game with ALT 
+2.Dialog function
+3.New Wave strategy
+
+-------------------------------------------------------------
+VERSION 1.7.3 DEV
+2012-04-08 20:12:45
+
+1.Update with strategy pattern
+2.Wave 
+
+-------------------------------------------------------------
+VERSION 1.7.1 DEV
+2012-04-08 11:01:43
+
+1.Code adjusted (Main Key Adapter)
+
+-------------------------------------------------------------
+VERSION 1.7.0 DEV
+2012-04-07 23:04:43
+
+1.Code refactored with strategy pattern
+
+-------------------------------------------------------------
+VERSION 1.6.0 DEMO
+2012-04-06 11:21:40
+
+1.Classes reorganized
+
+-------------------------------------------------------------
+VERSION 1.5.6 DEMO
+
+1.Add Soy Sauce tank
+
+-------------------------------------------------------------
+VERSION 1.5.5 DEMO
+2012-04-05 15:20:15
+
+1.Add skill Earthquake
+
+-------------------------------------------------------------
+VERSION 1.5.0 DEMO
+2012-04-05 13:53:24
+
+1.Code refactored
+2.Skill Dash & Line Shoot Updated
+3.Add shake screen function (not start using yet)
+
+-------------------------------------------------------------
+VERSION 1.4.4 DEMO
+2012-04-04 21:50:03
+
+1.Help info updated
+2.Random tank generator
+
+-------------------------------------------------------------
+VERSION 1.4.3 DEV
+2012-04-04 20:15:57
+
+1.Line Shoot refined
+
+-------------------------------------------------------------
+VERSION 1.4.2 DEV
+2012-04-04 15:45:03
+
+1.Dash out of bounds bug fixed
+2.Sniper tank refined
+
+-------------------------------------------------------------
+VERSION 1.4.0 DEV
+2012-04-03 12:32:46
+
+1.Skill 9 weakened(increase cost, decrease last time)
+2.Do not waste MP if skill 1 & skill 3 failed
+3.Adjusted the probability of the item dropping
+4.Flash when crazy / energetic (new)
+5.Added sniper tank with its AI
+
+-------------------------------------------------------------
+VERSION 1.3.2 PRE-ALPHA
+
+1.Fixed Stack Overflow bug due to Bomber tank 
+
+-------------------------------------------------------------
+VERSION 1.3.0 PRE-ALPHA
+
+1.Added engineer tank
+2.Adjusted mine time
+3.Explosion do not change when paused
+4.Robot tanks energy bar added
+5.Enemies' max HP increases with the number of killed
+
+-------------------------------------------------------------
+VERSION 1.2.0 ALPHA
+2012-04-01 12:46:43
+
+1.Added Shooter
+2.Added Bomber
+3.Some tanks get close to the target automatically
+4.Updated help/pause
+
+-------------------------------------------------------------
+VERSION 1.1.0 ALPHA
+2012-04-01 00:12:19
+
+1.Added Orange tank
+2.Added Bomber tank (cannot explode yet)
+*.Do not appear in game automatically
+
+-------------------------------------------------------------
+VERSION 1.0.0 ALPHA
+2012-03-31 20:50:32
+
+1.Skill0 bug fixed
+2.Skill last time and cost adjusted
+3.Pause bug fixed
+4.Help bug fixed
+5.Cannon Direction bug fixed
+6.Out of bound when invisible bug fixed
+7.Game restart without killed statistic refresh bug fixed
+8.Bad missile bug & cannon display bug fixed
+  

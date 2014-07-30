@@ -1,0 +1,21 @@
+#!/bin/sh
+
+#Prepare
+mkdir bin
+
+#Compile
+javac -encoding gbk -d ./bin \
+ ./src/xz/tankwar/component/*.java \
+ ./src/xz/tankwar/component/supply/*.java \
+ ./src/xz/tankwar/component/weapon/*.java \
+ ./src/xz/tankwar/component/tank/*.java \
+ ./src/xz/tankwar/component/tank/strategy/*.java \
+ ./src/xz/tankwar/module/*.java \
+ ./src/xz/tankwar/module/tankgenerator/*.java
+
+#Package
+jar cfe TankWar.jar xz.tankwar.module.MainWindow -C bin/ .
+
+#Clean
+rm -r bin
+
