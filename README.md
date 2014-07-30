@@ -45,8 +45,7 @@ Something Else
 --------------
 If you like this game, **give me a star** :)
  
-If you find problems, please mail to : 
-+ xie.zheng777@gmail.com
+If you find problems or have some advice, please mail to : xie.zheng777@gmail.com
 
 Or you can watch, star, fork this repo or send pull request if you like. ^ω^
 
