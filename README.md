@@ -49,3 +49,17 @@ If you find problems or have some advice, please mail to : xie.zheng777@gmail.co
 
 Or you can watch, star, fork this repo or send pull request if you like. ^ω^
 
+Screenshots
+-----------
+Starting screen with control panel.  
+![start screen](/screenshot/1.png)  
+Game playing.  
+![start screen](/screenshot/2.png)  
+Also game playing.  
+![start screen](/screenshot/4.png)  
+Ranklist.  
+![start screen](/screenshot/3.png)  
+Help page shows some skills and more skills is locked yet.
+![start screen](/screenshot/5.png)  
+
+
