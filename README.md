@@ -6,7 +6,7 @@ The current version is _v2.3.2_, and it may be the final version.
   
 Build & Run
 -----------
-For Linux(Ubuntu) user, just type on your shell:
+For Linux(Ubuntu) user, run following commands in your shell:
 ```sh
 ./build
 ./rungame
