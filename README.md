@@ -19,7 +19,7 @@ By the way, I just tested the game in Windows and Ubuntu. It may have unknow pro
 
 Control
 -------
-* ###Function Keys
+### Function Keys
  * **ESC** - Pause game.
  * **F1** - Help.
  * **F2** - Restart.
@@ -28,7 +28,7 @@ Control
  * **F11** - Save game. (restricted)
  * **F12** - Load game. (restricted)
 
-* ###Game Control Keys
+### Game Control Keys
  * **DIRECTION KEYS** - Move tank in 8 directions.
  * **W A S D** - Fire towards 8 directions.
  * **Q** - Fire towards moving direction.
